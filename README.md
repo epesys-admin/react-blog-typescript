@@ -5,7 +5,7 @@
 	* Custom context must ends with Context postfix => AuthContext, ThemeContext, etc
 	* Custom Component & its folder should be named in Pascal case => Button, FormButton, 
 
-Folder structure to follow:
+# Folder structure to follow:
 	* src
 		* assets
 			* img
